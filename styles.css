@@ -1,0 +1,150 @@
+body{
+  text-align: center;
+  color:#40514E;
+}
+.frame1{
+  background-color: #ecfbfc;
+  position: relative;
+  padding-bottom: 190px;
+  padding-top: 190px;
+}
+.marginzero{
+    margin: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h1{
+
+
+    margin-bottom: 0px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 5.62rem;
+      padding-top: 5px;
+}
+
+h2{
+  font-family: 'Purple Purse', cursive;
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+
+h3{
+  font-family: 'Nova Mono', monospace;
+}
+.box1{
+  width: 200px;
+      height: 200px;
+      background-color: red;
+}
+.box2{
+  width: 200px;
+      height: 200px;
+      background-color: blue;
+}
+.cloud-top{
+  position: relative;
+    top: 29px;
+    left: 400px;
+}
+.cloud-bottom{
+  position: relative;
+  bottom: 200px;
+  left: 10px;
+}
+.headsamecolor{
+  color: #66BFBF;
+  line-height: 2;
+}
+.colorclass{
+  color:#11999E;
+}
+.skill-row{
+  width:50%;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top: 100px;
+  margin-bottom: 111px;
+  text-align: left;
+
+}
+.cook{
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+.code{
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+/*.antifloatleft{
+  clear:left;
+}
+.antifloatright{
+  clear:right;
+}*/
+
+.dottedhr{
+  border-style: dotted;
+border-width: thick;
+border-top-width: thick;
+border-right-width: 0;
+border-bottom-width: 0;
+border-left-width: 0;
+border-bottom-width: 0;
+width: 5%;
+border-color:#bdc7c7;
+margin: 100px auto 100px auto;
+
+}
+.middle-container {
+  margin: 100px 0;
+}
+.bottom-container{
+  font-family: 'Nova Mono', monospace;
+  background-color: #66BFBF;
+  padding-top: 68px;
+
+
+}
+.footer-link {
+  text-decoration: none;
+  margin: 33px;
+}
+.colorclass{
+  color:#11999E;
+}
+.footer-link:hover{
+  color:#EAF6F6;
+}
+.copyright{
+  color:#EAF6F6;
+  font-size: 0.76rem;
+}
+p{
+  line-height: 2;
+}
+.btn{
+  background-color: #66BFBF;
+  COLOR:WHITE;
+  border-radius: 12px;
+  border-color: inherit ;
+  padding:10px;
+  text-decoration: none;
+  margin: 20px;
+}
+.imageround{
+  border-radius: 12px;
+}
+.multiline{
+  width:328px;
+  margin:auto;
+}
+.spaceforbutton{
+  width:367px;
+  margin-top: 25px;
+    margin-bottom: 55px;
+    margin-left: auto;
+    margin-right: auto;
+}
